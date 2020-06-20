@@ -73,6 +73,7 @@ if [ -z "$SPACESHIP_PROMPT_ORDER" ]; then
     vi_mode       # Vi-mode indicator
     jobs          # Background jobs indicator
     exit_code     # Exit code section
+    emoji         # Random emoji
     char          # Prompt character
   )
 fi
