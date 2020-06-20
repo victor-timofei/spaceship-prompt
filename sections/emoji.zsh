@@ -1,4 +1,4 @@
-paceship_emoji() {
+spaceship_emoji() {
    local 'rnd_emoji'
 
    rnd_emoji="$(random_emoji animals)"
